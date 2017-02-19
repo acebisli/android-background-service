@@ -1,1 +1,13 @@
 # Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.gradle/
+.idea/libraries/
+.idea/workspace.xml
+app/app.iml
+app/build/
+app/libs/
+app/src/main/res/drawable/
+build/
+captures/
+local.properties
+sampleservice.iml
